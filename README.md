@@ -1,8 +1,4 @@
 #  Giới thiệu thư viện Pandas
-**Nội dung:**
-1. Giới thiệu
-2. Series
-3. DataFrame
 
 ## 1. Giới thiệu
 ### 1.1 Pandas là gì?
