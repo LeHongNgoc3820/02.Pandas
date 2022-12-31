@@ -1,8 +1,9 @@
 #  Giới thiệu thư viện Pandas
 [**Chi tiết bài viết**](https://github.com/LeHongNgoc3820/02.Pandas/blob/main/Overview_Pandas.ipynb)
 
-**Dưới đây là tóm tắt lí thuyết**
+Bài tiếp theo: [**Pandas for Data Analyst**](https://github.com/LeHongNgoc3820/02.Pandas/blob/main/Pandas_for_Data_Analyst.ipynb)
 
+**Dưới đây là tóm tắt lí thuyết**
 ## 1. Giới thiệu
 ### 1.1 Pandas là gì?
 
